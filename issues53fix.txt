@@ -1,1 +1,2 @@
 This is a fix for issue 53.
+This fix is now completed after the interruption.
