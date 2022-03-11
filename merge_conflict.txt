@@ -1,2 +1,2 @@
 This is to test merge conflict.
-This is in branch conflict.
+This is in branch master 1.
